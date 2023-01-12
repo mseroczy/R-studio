@@ -1,0 +1,13 @@
+1. selection of data : 3 products 3 provinces.
+
+2. measures of central tendency (for the selected product, bivariate - a breakdown by province should be taken into account).
+
+3. measures of scatter (for the selected product, bivariate - the division by province should be taken into account)
+
+4. graphs : frequency histogram and boxplot - all three products
+
+5. interval estimation : confidence interval for the mean, minimum sample size (for the selected product, two-person - should take into account the division into provinces)
+
+6. testing of average values (test of average value for the price of the selected product and comparison of two averages for provinces or years)
+
+7. test of normality of prices of all three products with graphs.
